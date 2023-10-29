@@ -10,4 +10,4 @@ Prosta aplikacja kalkulatora pozwalająca na wykonywanie prostych operacji matem
 6. Wynik obliczeń zostanie wyświetlony pod przyciskiem "Oblicz".
 ## Mechanizm Działania
 Aplikacja pobiera pierwszą i drugą wprowadzoną liczbę, a następnie podstawia wprowadzone 
-liczby do stałych oraz na podstawie wybranej przez użytkownika operacji wykonuje działanie matematyczne.
+liczby do stałych. Na podstawie wybranej przez użytkownika operacji wykonuje działanie matematyczne.
