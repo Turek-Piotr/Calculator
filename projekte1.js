@@ -5,9 +5,6 @@ function calculate(){
 
     let result
 
-    if (isNaN(num1) || isNaN(num2)) {
-        result = "Proszę wprowadzić poprawne liczby w obu polach.";
-    } else {
         if (char == "+") {
             result = num1 + num2;
         } else if (char == "-") {
@@ -23,5 +20,4 @@ function calculate(){
         }
 
         document.getElementById("res").textContent = "Wynik to: " +result;
-    }
 }
