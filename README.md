@@ -1,8 +1,8 @@
 # Calculator
 ## Opis
-Prosta aplikacja kalkulatora pozwalająca na wykonywanie prosych operacji matematycznych.
+Prosta aplikacja kalkulatora pozwalająca na wykonywanie prostych operacji matematycznych.
 ## Instrukcje Użytkowania
-1. Otwórz aplikację w przeglądarce, uruchamiając plik `index.html`.
+1. Otwórz aplikację w przeglądarce, uruchamiając plik `projecte1.html`.
 2. Podaj pierwszą liczbę w polu "Podaj pierwszą liczbę".
 3. Wybierz operację matematyczną z rozwijanego menu "Jaką chcesz wykonać operację?".
 4. Podaj drugą liczbę w polu "Podaj drugą liczbę".
