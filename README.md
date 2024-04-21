@@ -7,7 +7,7 @@ Prosta aplikacja kalkulatora pozwalająca na wykonywanie prostych operacji matem
 3. Wybierz operację matematyczną z rozwijanego menu "Jaką chcesz wykonać operację?".
 4. Podaj drugą liczbę w polu "Podaj drugą liczbę".
 5. Kliknij przycisk "Oblicz", aby uzyskać wynik.
-6. Wynik obliczeń zostanie wyświetlony pod przyciskiem "Oblicz".
+6. Wynik obliczeń zostanie wyświetlony pod przyciskiem "Oblicz" ,a historia obliczeń w lewym górnym rogu.
 ## Mechanizm Działania
 Aplikacja pobiera pierwszą i drugą wprowadzoną liczbę, a następnie podstawia wprowadzone 
-liczby do stałych. Na podstawie wybranej przez użytkownika operacji wykonuje działanie matematyczne.
+liczby do stałych. Na podstawie wybranej przez użytkownika operacji wykonuje działanie matematyczne ,a następnie wyświetla działanie w "Historii".
