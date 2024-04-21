@@ -30,3 +30,14 @@ button:hover {
     border-radius: 7px;
     background-color: #b0aeae;
 }
+#history {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background-color: #ffffff;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    font-size: x-large;
+    clear: both;
+} 
