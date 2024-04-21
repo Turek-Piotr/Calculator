@@ -21,9 +21,14 @@ function calculate(){
         result = Math.pow(num1, num2);  
     }
     
+
     document.getElementById("res").textContent = "Wynik to: " + result;
 
     const historyDiv = document.getElementById("history");
     const operation = num1 + " " + char + " " + num2 + " = " + result;
     historyDiv.innerHTML += operation + "<br>";
+}
+
+function clearHistory() {
+    document.getElementById("history").textContent = "Historia: ";
 }
